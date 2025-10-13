@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2025-10-11 18:46:12,https://jzb.wwkejishe.top/?id=582$订阅源
+2025-10-13 18:50:35,https://jzb.wwkejishe.top/?id=578$订阅源
 
 📺央视频道,#genre#
+CCTV-1,https://jzb.wwkejishe.top/?id=578$订阅源
 CCTV-5,https://jzb.wwkejishe.top/?id=582$订阅源
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
 CCTV-6,https://jzb.wwkejishe.top/?id=584$订阅源
@@ -18,7 +19,6 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 CCTV-14,https://jzb.wwkejishe.top/?id=592$订阅源
 CCTV-15,https://cc06.tv12.xyz/16.m3u8$订阅源
 CCTV-15,https://jzb.wwkejishe.top/?id=593$订阅源
-CCTV-15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15$订阅源
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
 CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 CCTV-17,https://jzb.wwkejishe.top/?id=594$订阅源
@@ -43,6 +43,7 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594$订阅源
 黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8$订阅源
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
 安徽卫视,https://cc06.tv12.xyz/26.m3u8$订阅源
+安徽卫视,https://jzb.wwkejishe.top/?id=612$订阅源
 重庆卫视,https://cc06.tv12.xyz/34.m3u8$订阅源
 重庆卫视,https://jzb.wwkejishe.top/?id=607$订阅源
 东方卫视,https://cc06.tv12.xyz/37.m3u8$订阅源
@@ -71,6 +72,7 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594$订阅源
 内蒙古卫视,https://cc06.tv12.xyz/94.m3u8$订阅源
 宁夏卫视,https://cc06.tv12.xyz/96.m3u8$订阅源
 青海卫视,https://cc06.tv12.xyz/97.m3u8$订阅源
+青海卫视,https://jzb.wwkejishe.top/?id=605$订阅源
 山东卫视,https://cc06.tv12.xyz/101.m3u8$订阅源
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$订阅源
 山西卫视,https://cc06.tv12.xyz/107.m3u8$订阅源
@@ -174,7 +176,7 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594$订阅源
 ☘️重庆频道,#genre#
 
 ☘️江苏频道,#genre#
-南京十八,https://mgtv.ottiptv.cc/migu/838151753.m3u8?migutoken=285efd1cbde413f7a9cb74a6c72cc9a05f06c1aa1fdc63a4a86480630d86dc8cde0a03b5e64a10c3f0581160e2009cf37815170eabe9397300ec94d13e4c25493e524d46e0080281f929363918$订阅源
+南京十八,https://mgtv.ottiptv.cc/migu/838151753.m3u8?migutoken=e1c3c9e2e67541d90ea94c4c917f96ecf43c6c0ae7c616929d8676e7c14bc5587ba870ce22575333640bfff61b05d4d468f6564c6251023f1ad20957cfe3b2c12e71b4662f83dce5d920a86c29$订阅源
 南京教科,https://mgtv.ottiptv.cc/migu/838153729.m3u8?migutoken=b851166bbe8f714c265834f0f51ef63f8b4f0934fcc854981ce124c2bd934bc64d035b76abd2c8f9afe4ea7792e3e6751b9a8b31846bfebd57e26d870ee75d1cb3df352d20adbfa1e7c7e7daa2$订阅源
 南京新闻综合,https://mgtv.ottiptv.cc/migu/838109047.m3u8?migutoken=4651e641585356dfef7f9682a415f4e85a79d38009634552023cf582d912932afc0c56cff77070938e0385de5394675f9a1d4220f6e7d48a88ca5fb2fe6371c1bc4597385fdd397d399ae8ef55$订阅源
 南通新闻综合,https://mgtv.ottiptv.cc/migu/955227985.m3u8?migutoken=ee98b6677d4ae15ad8e3bd9bf4d810d65be1a5ed91f029a9da7648c10abec0ad4d9461555268693f2e1627aeb037fd39d60175731d37507782e60db7fb7aa1cb33549a67bedfffac3251f607bc$订阅源
@@ -290,7 +292,6 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594$订阅源
 定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd$订阅源
 平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd$订阅源
 武乡新闻综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd$订阅源
-汾西综合,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd$订阅源
 祁县新闻综合,http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8?zshanxd$订阅源
 长子综合,https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd$订阅源
 阳曲综合,https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd$订阅源
@@ -389,7 +390,6 @@ CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u
 🎵音乐频道,#genre#
 CCTV-15,https://cc06.tv12.xyz/16.m3u8$订阅源
 CCTV-15,https://jzb.wwkejishe.top/?id=593$订阅源
-CCTV-15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15$订阅源
 
 🏛经典剧场,#genre#
 天龙八部,https://live.metshop.top/huya/23903123$订阅源
