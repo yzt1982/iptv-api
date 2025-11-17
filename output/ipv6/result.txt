@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-15 18:43:15,https://live.chinacert.cftest5.cn/mg/?id=608807420$订阅源
+2025-11-17 18:45:44,https://live.chinacert.cftest5.cn/mg/?id=608807420$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://live.chinacert.cftest5.cn/mg/?id=608807420$订阅源
@@ -9,6 +9,7 @@ CCTV-4,https://live.chinacert.cftest5.cn/mg/?id=631780421$订阅源
 CCTV-5,https://live.chinacert.cftest5.cn/mg/?id=641886683$订阅源
 CCTV-5+,https://live.chinacert.cftest5.cn/mg/?id=641886773$订阅源
 CCTV-6,https://live.chinacert.cftest5.cn/mg/?id=624878396$订阅源
+CCTV-7,https://live.chinacert.cftest5.cn/mg/?id=673168121$订阅源
 CCTV-8,https://live.chinacert.cftest5.cn/mg/?id=624878356$订阅源
 CCTV-9,https://live.chinacert.cftest5.cn/mg/?id=673168140$订阅源
 CCTV-10,https://live.chinacert.cftest5.cn/mg/?id=624878405$订阅源
@@ -147,7 +148,7 @@ CCTV-17,https://live.chinacert.cftest5.cn/mg/?id=673168256$订阅源
 江苏影视,https://live.chinacert.cftest5.cn/mg/?id=626064697$订阅源
 江苏教育,https://live.chinacert.cftest5.cn/mg/?id=628008321$订阅源
 淮安新闻综合,https://live.chinacert.cftest5.cn/mg/?id=639731826$订阅源
-淮安新闻综合,https://mgtv.ottiptv.cc/migu/639731826.m3u8?migutoken=89801032decec35cded1fe460c65b70719e7f7ccca796b79a6d15743ff1e1b6027c64b5a219df5a669815a964bb20b14d20dcdbf11174da7bf6d923797925fb5111edcc7d3edc1954eb9b620e6$订阅源
+淮安新闻综合,https://mgtv.ottiptv.cc/migu/639731826.m3u8?migutoken=383a4690d772fe16ccec98f2da2e7e0c3b362ae2d9a0fa219e9a7bb76bb96d4ca6392f861efb0a61154552c563897f4660867745735f85e310ec9fb52d7fc55cd30da8d55169f8c415c5a69a15$订阅源
 淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8$订阅源
 溧水新闻综合,https://live.chinacert.cftest5.cn/mg/?id=639737327$订阅源
 溧水新闻综合,https://mgtv.ottiptv.cc/migu/639737327.m3u8?migutoken=3b98c468491b49a9629c5832cb109bafb9b71d85fa9145eff76d80284d719f48d87d48bc93b52f5004d1c3b4efa4c9f7974e2e9f495140a84b8e678bfa1991e8bd705a52fc016f51131cfd3872$订阅源
@@ -178,7 +179,6 @@ CCTV-17,https://live.chinacert.cftest5.cn/mg/?id=673168256$订阅源
 叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd$订阅源
 松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd$订阅源
 汶川新闻综合,rtmp://live.iwcmt.cn:1936/live/zhxw$订阅源
-汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd$订阅源
 泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8$订阅源
 甘孜综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8$订阅源
 荥经综合,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8$订阅源
@@ -303,6 +303,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$订阅源
 三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8$订阅源
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie$订阅源
+靖天资讯,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv065$订阅源
 
 🎬电影频道,#genre#
 CHC家庭影院,https://live.chinacert.cftest5.cn/mg/?id=644368373$订阅源
@@ -311,9 +312,12 @@ CHC动作电影,https://live.chinacert.cftest5.cn/mg/?id=644368714$订阅源
 CHC动作电影,https://mgtv.ottiptv.cc/migu/644368714.m3u8?migutoken=4560e7c3057e88de7982b7db97b099ca8e845404f509eecfda842afeebb6e0f56b395a8276019f7ed722017147b1a70e9dc959dcfed100facacec159a601a865605665771c5c59de2823df6b56$订阅源
 黑莓电影,https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8$订阅源
 纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie$订阅源
+靖天映画,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv055$订阅源
+靖天戏剧,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv058$订阅源
 天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$订阅源
 天映经典,https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv$订阅源
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh$订阅源
+无线星河,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe$订阅源
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie$订阅源
 
 🎥咪咕直播,#genre#
@@ -331,11 +335,8 @@ CCTV-5+,https://live.chinacert.cftest5.cn/mg/?id=641886773$订阅源
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8$订阅源
-七龙珠,https://live.ottiptv.cc/huya/11601966$订阅源
 海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
 中华小当家,https://live.metshop.top/huya/11342413$订阅源
-中华小当家,https://live.ottiptv.cc/huya/11342413$订阅源
-猫和老鼠,https://live.ottiptv.cc/huya/11352879$订阅源
 经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
 漫画解说,https://www.goodiptv.club/douyu/5907076$订阅源
 漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568$订阅源
@@ -347,5 +348,3 @@ CCTV-15,https://live.chinacert.cftest5.cn/mg/?id=673168223$订阅源
 
 🏛经典剧场,#genre#
 天龙八部,https://live.metshop.top/huya/23903123$订阅源
-西游记,https://live.ottiptv.cc/huya/26355861$订阅源
-三国演义,https://live.ottiptv.cc/huya/11602081$订阅源
